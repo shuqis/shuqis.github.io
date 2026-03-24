@@ -4,12 +4,12 @@
 theme: jekyll-theme-minimal
 
 # Site-wide title (appears in browser tab)
-title: Dayuan Wang
+title: Shuqi Song
 
 # Site-wide description
-description: PhD Student in Biostatistics at the University of Florida.
+description: PhD Student in Statistics at the University of South Carolina.
 
-google_analytics: G-6WFBERR0W2
+# google_analytics: G-6WFBERR0W2
 
 # Blog/article URLs
 permalink: /:categories/:year/:month/:day/:title/
